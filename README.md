@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amskyepi
+- 👀 I’m interested in ML and data science projects.
+- 🌱 I’m currently learning R.
